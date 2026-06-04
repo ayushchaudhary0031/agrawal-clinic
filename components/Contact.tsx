@@ -29,11 +29,11 @@ export function Contact() {
             </div>
             
             <div className="flex flex-wrap gap-4">
-              <a href="https://wa.me/917906480031" target="_blank" rel="noopener noreferrer" className="bg-[#25D366] text-white px-8 py-3 rounded-full font-bold flex items-center gap-2 hover:opacity-90 transition-all">
+              <a href="https://api.whatsapp.com/send?phone=917906480031&text=Hello%20Dr.%20Agrawal,%20I%20would%20like%20to%20book%20an%20appointment." target="_blank" rel="noopener noreferrer" className="bg-[#25D366] text-white px-8 py-3 rounded-full font-bold flex items-center gap-2 hover:opacity-90 transition-all">
                 <svg className="w-5 h-5 fill-current" viewBox="0 0 24 24"><path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.588-5.946 0-6.556 5.332-11.891 11.892-11.891 3.181 0 6.167 1.24 8.413 3.488 2.245 2.248 3.481 5.236 3.481 8.417 0 6.556-5.333 11.891-11.893 11.891-2.01 0-3.991-.51-5.747-1.477l-6.345 1.68zm6.19-3.216l.359.213c1.47.873 3.176 1.335 4.939 1.335 5.176 0 9.389-4.212 9.389-9.39 0-2.512-.979-4.872-2.756-6.65-1.778-1.778-4.137-2.757-6.65-2.757-5.178 0-9.39 4.212-9.39 9.39 0 2.036.529 4.025 1.534 5.768l.233.403-1.011 3.693 3.793-.995z"></path></svg>
                 WhatsApp Us
               </a>
-              <a href="#" className="bg-primary text-on-primary px-8 py-3 rounded-full font-bold flex items-center gap-2 hover:bg-primary-container transition-all">
+              <a href="https://maps.google.com/?q=Civil+Courts,Agra,Uttar+Pradesh" target="_blank" rel="noopener noreferrer" className="bg-primary text-on-primary px-8 py-3 rounded-full font-bold flex items-center gap-2 hover:bg-primary-container transition-all">
                 <Navigation className="h-5 w-5" />
                 Get Directions
               </a>
